@@ -1,3 +1,10 @@
+"""
+1. 实现二叉树，并回答以下问题
+二叉树的前、中、后序遍历是什么，仅仅是三个顺序不同的列表吗？
+请分析后续遍历有什么特殊之处？
+"""
+
+
 class TreeNode:
     def __init__(self, value):
         self.value = value
